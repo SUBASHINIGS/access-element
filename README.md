@@ -1,4 +1,4 @@
-# access-element
+# Access element through pointers
 C programming code for accessing elements in an array through pointer.
 
 # Pointers in C
